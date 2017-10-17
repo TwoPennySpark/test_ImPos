@@ -1,2 +1,2 @@
-hhff,r
-new line
+hhff,r   Z
+exit
